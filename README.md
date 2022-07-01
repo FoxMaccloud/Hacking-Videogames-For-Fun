@@ -3,8 +3,12 @@ The last year and a half I have been diving into game hacking. At my university 
 
 I decided that after having this course graded I would publish all the source code and texts related to this project and I hope you the end user will enjoy this project as much as I did making it.
 
-[IsDebuggerPresent() Patching example Video](https://www.youtube.com/watch?v=Sxl5N8Xoapc&ab_channel=FoxMaccloud)
+The main file of this project is the [main.pdf](https://github.com/FoxMaccloud/Z-INF-2022/blob/main/main.pdf). This paper contains prequisite knowledge I mostly wrote so that my proffessors could follow. However this is still a good read. Then it contains two game hacking examples. One being offline (skyrim) and the other being online (ffxiv). In these two examples I have explained a bit of what went in to developing and some of the challenges I stumbled upon. 
 
-[Skyrim Hacks Video showcase](https://www.youtube.com/watch?v=4yHegQePwPs&ab_channel=FoxMaccloud)
+Here are also some video examples I used as part of the presentation to demonstrate What I made.
 
-[FFXIV Proxytool Video showcase](https://www.youtube.com/watch?v=UvUpphdrjtw&ab_channel=FoxMaccloud)
+* [IsDebuggerPresent() Patching example Video](https://www.youtube.com/watch?v=Sxl5N8Xoapc&ab_channel=FoxMaccloud)
+
+* [Skyrim Hacks Video showcase](https://www.youtube.com/watch?v=4yHegQePwPs&ab_channel=FoxMaccloud)
+
+* [FFXIV Proxytool Video showcase](https://www.youtube.com/watch?v=UvUpphdrjtw&ab_channel=FoxMaccloud)
