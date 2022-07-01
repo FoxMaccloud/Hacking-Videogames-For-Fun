@@ -7,4 +7,4 @@ I decided that after having this course graded I would publish all the source co
 
 [Skyrim Hacks Video showcase](https://www.youtube.com/watch?v=4yHegQePwPs&ab_channel=FoxMaccloud)
 
-[FFXIV Proxytool showcase](https://www.youtube.com/watch?v=UvUpphdrjtw&ab_channel=FoxMaccloud)
+[FFXIV Proxytool Video showcase](https://www.youtube.com/watch?v=UvUpphdrjtw&ab_channel=FoxMaccloud)
