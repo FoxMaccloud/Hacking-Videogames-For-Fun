@@ -1,4 +1,17 @@
 # Hacking Videogames For Fun
+
+---
+## Disclaimer 
+
+This project is considered completed, and there are no plans for future updates. As of the delivery of this project at my university, no further modifications or enhancements will be made to the content or codebase of this repository unless major bugfixes/errors/mistakes comes to my attention.
+
+## Additional Information
+
+**FFXIV Proxy Development:** The Final Fantasy XIV (FFXIV) proxy tool presented in this project has undergone further development beyond the scope of this repository. For the latest updates, features, and improvements, please visit the dedicated repository at [FoxMaccloud/Final-Fantasy-XIV-Proxy](https://github.com/FoxMaccloud/Final-Fantasy-XIV-Proxy). The extended development at the mentioned repository includes the implementation of additional features that enhance the functionality and capabilities of the FFXIV proxy tool. Users interested in the latest advancements are encouraged to explore the updated repository.
+
+---
+## Project Overview
+
 The last year and a half I have been diving into game hacking. At my university I could choose to do a passion project as a course as long as I could get atleast one professor to be on board. The game hacking topic takes a lot of research and is very hard however so does university. Why not then just hack videogames on university time? So I did. I asked one of our infosec professors if I could do game hacking. I got the fealing that he didn't really understand what I was doing, but he was on board. At the end of the semester and I showed off my pdf, code and presentaiton I got the impression that they were impressed and passed the class.
 
 I decided that after having this course graded I would publish all the source code and texts related to this project and I hope you the end user will enjoy this project as much as I did making it.
